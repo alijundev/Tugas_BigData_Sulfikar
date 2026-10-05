@@ -1,0 +1,13 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+raw_dataset/Data_Terstruktur/*
+raw_dataset/Data_Semi_Terstruktur/*
+raw_dataset/Data_Tidak_Terstruktur/data/*
