@@ -11,3 +11,6 @@ wheels/
 raw_dataset/Data_Terstruktur/*
 raw_dataset/Data_Semi_Terstruktur/*
 raw_dataset/Data_Tidak_Terstruktur/data/*
+!raw_dataset/Data_Terstruktur/.gitkeep
+!raw_dataset/Data_Semi_Terstruktur/.gitkeep
+!raw_dataset/Data_Tidak_Terstruktur/data/.gitkeep
